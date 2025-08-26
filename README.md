@@ -20,9 +20,19 @@ A minimalist note-taking web app inspired by Google Keep. Built with React.js, t
 | Google Fonts | Custom typography for aesthetic appeal |
 
 
-## 📸 Preview
+## 📸 Demo Screenshots
 
-![Keeper App Screenshot](./demo.gif) <!-- Add screenshot if available -->
+Here’s a quick look at the Keeper App in action:
+
+### 🧱 Note Creation Interface
+![Note Creation](./Demo/demo1.png)
+
+### 🗑️ Note Deletion Feature
+![Note Deletion](./Demo/demo2.png)
+
+### 📱 Responsive Layout
+![Responsive Design](./Demo/demo3.png)
+
 
 ## 🧠 Concepts Practiced
 
