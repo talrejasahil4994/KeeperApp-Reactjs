@@ -27,10 +27,10 @@ Here’s a quick look at the Keeper App in action:
 ### 🧱 Note Creation Interface
 ![Note Creation](./Demo/demo1.png)
 
-### 🗑️ Note Deletion Feature
+### 📱 Responsive Layout
 ![Note Deletion](./Demo/demo2.png)
 
-### 📱 Responsive Layout
+### 🗑️ Note Deletion Feature
 ![Responsive Design](./Demo/demo3.png)
 
 
@@ -51,6 +51,3 @@ Here’s a quick look at the Keeper App in action:
 🙋‍♂️ About Me
 Built by Sahil, a Computer Science undergrad passionate about full-stack development and clean UI/UX. Connect with me on LinkedIn or check out more projects on GitHub.
 
-
-
-## 📁 Folder Structure
